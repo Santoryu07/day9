@@ -1,20 +1,3 @@
 // primer comentario
 //segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
-//segudo 
+// esta es la rama alexander
